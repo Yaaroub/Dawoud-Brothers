@@ -1,6 +1,8 @@
-
+import yamansBild from "./AvatarMaker (1).png";
 export default function Yaman() {
   return (
-    <div>Yaman</div>
-  )
+    <div>
+      <img src={yamansBild} alt="Bild" />
+    </div>
+  );
 }
