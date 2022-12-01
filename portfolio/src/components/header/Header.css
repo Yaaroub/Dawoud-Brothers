@@ -1,0 +1,21 @@
+body{
+    border: 0;
+    padding: 0;
+    box-sizing: content-box;
+    
+}
+.header_c {
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
+    color: bisque;
+    padding: 1rem;
+}
+nav{
+    display: flex;
+    gap: 7rem;
+}
+nav a {
+    text-decoration: unset;
+    color: bisque;
+}
