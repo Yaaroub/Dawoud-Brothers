@@ -15,7 +15,17 @@ export default function Yaaroub() {
           {" "}
           <h1>Yaaroub Al Haj Dawoud</h1>
           <h2>WEB DEVELOPER</h2>
-          <h2>26 Jahre alt</h2>
+          <ul>
+            <li>HTML 5</li>
+            <li>CSS 3</li>
+            <li>SASS</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            <li>Node js</li>
+            <li>Express js</li>
+            <li>Responsive Webdesign</li>
+            <li>JEST</li>
+          </ul>
         </>
       ) : null}
     </div>
