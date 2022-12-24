@@ -26,7 +26,7 @@ export default function Yaman() {
               <h4>CSS3</h4>
             </li>
             <li>
-              <h4>sass</h4>
+              <h4>SASS</h4>
             </li>
             <li>
               <h4>JavaScript</h4>
