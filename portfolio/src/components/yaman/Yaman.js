@@ -16,39 +16,17 @@ export default function Yaman() {
           <h1>Yaman Al Haj Dawoud</h1>
           <h2>WEB DEVELOPER</h2>
           <ul>
-            <li>
-              <h4>GitHub</h4>
-            </li>
-            <li>
-              <h4>HTML5</h4>
-            </li>
-            <li>
-              <h4>CSS3</h4>
-            </li>
-            <li>
-              <h4>SASS</h4>
-            </li>
-            <li>
-              <h4>JavaScript</h4>
-            </li>
-            <li>
-              <h4>React</h4>
-            </li>
-            <li>
-              <h4>Node JS</h4>
-            </li>
-            <li>
-              <h4>Express JS</h4>
-            </li>
-            <li>
-              <h4>Jest</h4>
-            </li>
-            <li>
-              <h4>Responsive Webdesign</h4>
-            </li>
-            <li>
-              <h4>Data Bank</h4>
-            </li>
+            <li>GitHub</li>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>SASS</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            <li>Node JS</li>
+            <li>Express JS</li>
+            <li>Jest</li>
+            <li>Responsive Webdesign</li>
+            <li>Data Bank</li>
           </ul>
         </>
       ) : null}
