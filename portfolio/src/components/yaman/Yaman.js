@@ -17,6 +17,9 @@ export default function Yaman() {
           <h2>WEB DEVELOPER</h2>
           <ul>
             <li>
+              <h4>GitHub</h4>
+            </li>
+            <li>
               <h4>HTML5</h4>
             </li>
             <li>
@@ -32,7 +35,16 @@ export default function Yaman() {
               <h4>React</h4>
             </li>
             <li>
+              <h4>Node JS</h4>
+            </li>
+            <li>
               <h4>Express JS</h4>
+            </li>
+            <li>
+              <h4>Jest</h4>
+            </li>
+            <li>
+              <h4>Responsive Webdesign</h4>
             </li>
             <li>
               <h4>Data Bank</h4>
